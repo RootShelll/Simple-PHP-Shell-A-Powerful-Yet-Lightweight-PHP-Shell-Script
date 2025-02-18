@@ -1,4 +1,4 @@
-![Alternatif metin](https://raw.githubusercontent.com/RootShelll/Simple-PHP-Shell-A-Powerful-Yet-Lightweight-PHP-Shell-Script/refs/heads/main/Simple%20PHP%20Shell.jpg)
+![Simple-PHP-Shell](https://raw.githubusercontent.com/RootShelll/Simple-PHP-Shell-A-Powerful-Yet-Lightweight-PHP-Shell-Script/refs/heads/main/Simple%20PHP%20Shell.jpg)
 
 ```markdown
 # Simple PHP Shell: A Comprehensive Guide
