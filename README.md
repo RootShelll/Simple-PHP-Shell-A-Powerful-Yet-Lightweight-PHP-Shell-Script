@@ -112,7 +112,7 @@ Simple PHP Shell is released into the public domain under the [Unlicense](http:/
 
 Simple PHP Shell offers a powerful yet straightforward solution for remote server management. Whether you're a developer or system administrator, this tool simplifies file management, command execution, and system diagnostics—all from a user-friendly web interface.
 
-For more details, updates, or to report issues, please visit the [GitHub repository]([https://github.com/heiswayi/simple-php-shell](https://github.com/RootShelll/Simple-PHP-Shell-A-Powerful-Yet-Lightweight-PHP-Shell-Script)).
+For more details, updates, or to report issues, please visit the [GitHub repository]([[https://github.com/heiswayi/simple-php-shell](https://github.com/RootShelll/Simple-PHP-Shell-A-Powerful-Yet-Lightweight-PHP-Shell-Script)](https://github.com/RootShelll/Simple-PHP-Shell-A-Powerful-Yet-Lightweight-PHP-Shell-Script)).
 
 ---
 
