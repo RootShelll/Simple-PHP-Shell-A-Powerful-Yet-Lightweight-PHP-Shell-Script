@@ -4,7 +4,7 @@
 Simple PHP Shell is a lightweight yet powerful PHP script that provides essential shell functionalities directly from a web interface. Whether you need to view system information, manage files, or execute commands, this tool is designed for both beginners and advanced users.
 
 ---
-[Screenshot_2]([https://github.com/username/test/assets/108919293/d8206e8b-5c62-49f9-94e4-19b9d9d5c6e6](https://raw.githubusercontent.com/RootShelll/Simple-PHP-Shell-A-Powerful-Yet-Lightweight-PHP-Shell-Script/refs/heads/main/Simple%20PHP%20Shell.jpg))
+[Screenshot_2]([[https://github.com/username/test/assets/108919293/d8206e8b-5c62-49f9-94e4-19b9d9d5c6e6](https://raw.githubusercontent.com/RootShelll/Simple-PHP-Shell-A-Powerful-Yet-Lightweight-PHP-Shell-Script/refs/heads/main/Simple%20PHP%20Shell.jpg)](https://raw.githubusercontent.com/RootShelll/Simple-PHP-Shell-A-Powerful-Yet-Lightweight-PHP-Shell-Script/refs/heads/main/Simple%20PHP%20Shell.jpg))
 
 ## Table of Contents
 
